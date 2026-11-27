@@ -1,0 +1,30 @@
+# Sistem Informasi Manajemen Klinik Hewan Dinas Peternakan
+# Security and Configuration
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect sensitive files
+<FilesMatch "\.(sql|log|ini|conf)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Enable error reporting (disable in production)
+# php_flag display_errors On
+# php_value error_reporting E_ALL
+
+# Set default charset
+AddDefaultCharset UTF-8
+
+# Prevent access to config files
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# URL Rewriting (optional)
+# RewriteEngine On
+# RewriteBase /lintasdisiplinilmu/
+
+
