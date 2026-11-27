@@ -151,3 +151,22 @@ Gunakan akun berikut untuk masuk ke dalam sistem:
 | Appointment | Riwayat Vaksinasi |
 |:---:|:---:|
 | ![Appointment Pemilik](screenshots/17_pemilik_appointment.png) | ![Riwayat Vaksinasi](screenshots/18_pemilik_riwayat_vaksinasi.png) |
+
+---
+
+## 👩‍💻 Pengembang
+
+| | |
+|---|---|
+| **Nama** | Dinaria Simatupang |
+| **Role** | Full-Stack Developer |
+| **GitHub** | [@2608Dinaria](https://github.com/2608Dinaria) |
+| **Email** | dinaria@gmail.com |
+
+> Proyek ini dikembangkan sebagai bagian dari sistem informasi manajemen klinik hewan berbasis web menggunakan PHP, MySQL, dan Bootstrap 5.
+
+---
+
+<p align="center">
+  Dibuat dengan ❤️ oleh <strong>Dinaria Simatupang</strong>
+</p>
