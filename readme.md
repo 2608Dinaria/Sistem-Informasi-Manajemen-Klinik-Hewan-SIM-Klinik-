@@ -161,7 +161,7 @@ Gunakan akun berikut untuk masuk ke dalam sistem:
 | **Nama** | Dinaria Simatupang |
 | **Role** | Full-Stack Developer |
 | **GitHub** | [@2608Dinaria](https://github.com/2608Dinaria) |
-| **Email** | dinaria@gmail.com |
+| **Email** | dinariasimatupang@gmail.com |
 
 > Proyek ini dikembangkan sebagai bagian dari sistem informasi manajemen klinik hewan berbasis web menggunakan PHP, MySQL, dan Bootstrap 5.
 
